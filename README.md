@@ -1,5 +1,6 @@
 # Chat con Node JS
 Este proyecto consta de un chat en tiempo real creado con Node Js y Javascript, este due realizado siguiendo un tutorial para reforzar los conocimiento en Node.js.
+Para probarlo se recomienda tener la pagina en 2 pestañas abiertas.
 
 ## Bibliográfia
 
