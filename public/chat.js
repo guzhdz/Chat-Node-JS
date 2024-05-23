@@ -1,5 +1,5 @@
 //Make connection
-let socket = io.connect('https://trabajo04-dbf2d32d287c.herokuapp.com');
+let socket = io.connect('https://chat-node-js-6y6n.onrender.com');
 
 //Query DOM
 let message = document.getElementById('message'),
